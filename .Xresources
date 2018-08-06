@@ -1,0 +1,8 @@
+XTerm*termName: xterm-256color
+XTerm*cursorBlink: true
+XTerm.vt100.foreground: #4d814e
+XTerm.vt100.background: black
+XTerm.vt100.faceName: DejaVu Sans Mono:size=10
+XTerm*cursorColor: #FFFFFF
+XTerm*visualBell: False
+
